@@ -1,0 +1,3 @@
+[submodule "probot-test"]
+	path = probot-test
+	url = https://github.com/hollywood/probot-test
